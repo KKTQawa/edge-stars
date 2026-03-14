@@ -1,272 +1,187 @@
-# Edge 浏览器收藏夹
+# Edge Bookmarks
 
-> 个人常使用的 Microsoft Edge 浏览器收藏夹 | 更新时间: 2026-03-12
-
----
-
-## 📑 目录
-
-- [常用](#常用)
-- [大模型](#大模型)
-- [硬件](#硬件)
-- [资源](#资源)
-  - [游戏资源](#游戏资源)
-  - [前端UI资源](#前端ui资源)
-  - [众筹](#众筹)
-  - [更多资源](#更多资源)
-- [工具](#工具)
-  - [命令行](#命令行)
-- [学校](#学校)
-- [研究](#研究)
-  - [工具（常用）](#工具常用)
-- [打字](#打字)
-- [编程](#编程)
-- [网络](#网络)
-- [云服务](#云服务)
-- [文档](#文档)
-- [其他](#其他)
-- [脚本](#脚本)
+> 常用的 Edge 浏览器收藏夹 | 更新时间: 2026_3_14
 
 ---
-
-## 常用
-
-- [Machine Learning | Google for Developers](https://developers.google.cn/machine-learning/foundational-courses?hl=zh-cn)
-- [博客园 - 开发者的网上家园](https://www.cnblogs.com/)
-- [KKTQ (Images, Posts, & Favorites) - Imgur](https://imgur.com/user/kktq)
-- [QShh - 首页 - 衍智云](https://hsamooc.com/git/)
-- [关于举办2025第三届全国人工智能应用场景创新挑战赛的通知](https://www.cicas.cn/News/Detail/199)
-- [IP-API.com - Geolocation API - Documentation - JSON](https://ip-api.com/docs/api:json)
-- [高级IP定位-高级 API 文档-开发指南-Web服务 API](https://lbs.amap.com/api/webservice/guide/api-advanced/ip)
-- [课程交流 - ECNU Forum](https://ecnu.im/t/courses)
-- [领先的程序员自由远程工作平台-程序员客栈](https://www.proginn.com/)
-- [服务器 - 轻量云 - 控制台](https://console.cloud.tencent.com/lighthouse/instance/index?rid=4)
-- [1 冲刺嵌入式设计与开发科目专栏概述](https://www.4t.wiki/column/article/c4da5242d6bae32752a94605e04fcbf3/8ce64bf1302e0f71a7a0cfb7127e34f9)
-- [What Can I Do? - Lovable](https://lovable.dev/projects/5eb1649a-d5e6-42c5-b847-a418c9e4f611)
-- [Image and Video Upload, Storage, Optimization and CDN](https://cloudinary.com/)
-- [B12 Editor](https://b12.io/client/RyeGU8tZ/site_builder/#/website)
-- [ClawHub](https://clawhub.ai/skills?sort=downloads&nonSuspicious=true)
-- [Chenhui Li](http://chenhui.li/)
-- [服务总览-个推开发者中心](https://dev.getui.com/?userInfo=eventType:page;page:notification-push;uuid:06e2557ca5918f4dfc9e0d5397c727ff#/overviewIndex)
-- [鱼皮编程导航](https://www.codefather.cn/)
-- [KKTQawa's Project | KKTQawa's Org | Supabase](https://supabase.com/dashboard/project/moegjbdwjuwmlawztdpf)
-
----
-
-## 大模型
-
-- [mastra](https://www.yuque.com/denghanjie/public/cpquecx9ryadarr5)
-- [Cerehub - 一站式AI集合工具](https://www.cerehub.com/)
-- [AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全](https://ai-bot.cn/#term-61)
-- [菜鸟工具 - 不止于工具](https://www.jyshare.com/)
-- [Unsloth Docs | Unsloth Documentation](https://docs.unsloth.ai/)
-- [google colab](https://colab.research.google.com/)
-- [kaggle](https://www.kaggle.com/datasets)
-- [硅基流动 SiliconFlow - 致力于成为全球领先的 AI 能力提供商](https://siliconflow.cn/)
-- [closeai](https://platform.closeai-asia.com/dashboard)
-- [RAGFlow](https://demo.ragflow.io/user-setting/model)
-- [MCP – Model Context Protocol Servers, Clients, and Tools](https://glama.ai/mcp)
-- [Awesome MCP Servers](https://mcpservers.org/)
-- [Official MCP Registry](https://registry.modelcontextprotocol.io/)
-- [Claude MCP Servers Directory - Model Context Protocol](https://www.claudemcp.org/)
-
----
-
-## 硬件
-
-- [立创开源硬件平台](https://oshwhub.com/)
-- [嘉立创EDA(标准版) - 免费、易用、强大的在线电路设计软件](https://lceda.cn/editor)
-- [从零开始学习机器人技术 | 机器人与 ROS 在线课程 | The Construct](https://app.theconstruct.ai/)
-- [Hackster.io - The community dedicated to learning hardware.](https://www.hackster.io/)
-- [嵌入式单片机一套通关](https://www.yuque.com/embheima/mcu)
-- [RT-Thread-首页-RT-Thread问答社区](https://club.rt-thread.org/)
-- [全国大学生电子设计竞赛培训网](https://www.nuedc-training.com.cn/)
-
----
-
-## 资源
-
-### 游戏资源
-
-- [Art Collections | OpenGameArt.org](https://opengameart.org/collections)
-- [Assets · Kenney](https://kenney.nl/assets/category:2D/page:4?sort=update)
-- [ドット絵ダウンロードサイト DOTOWN|無料の素材サイト](https://dotown.maeda-design-room.net/)
-- [2D Game Assets Store & Free - CraftPix.net](https://craftpix.net/)
-- [Download the latest indie games - itch.io](https://itch.io/)
-- [网页红井-联机对战平台](https://www.ra2web.com/)
-
-### 前端UI资源
-
-#### Vue
-
-- [组件总览 - Ant Design](https://ant.design/components/overview-cn/?locale=zh-CN)
-- [按钮 Button - Naive UI](https://www.naiveui.com/zh-CN/os-theme/components/button)
-- [Overview 组件总览 | Element Plus](https://element-plus.org/zh-CN/component/overview.html)
-- [Quasar Components | Quasar Framework](https://quasar.dev/components/)
-- [API 速查 — Vuetify](https://vuetifyjs.com/zh-Hans/components/explorer/)
-
-#### React
-
-- [Material Design 3 - Google's latest open source design system](https://m3.material.io/)
-- [Mantine UI](https://ui.mantine.dev/)
-- [Accordion | React Bootstrap](https://react-bootstrap.github.io/docs/components/accordion/)
-- [Components | Chakra UI](https://www.chakra-ui.com/docs/components/concepts/overview)
-- [Headless UI - Unstyled, fully accessible UI components](https://headlessui.com/v1/vue)
-- [区块主题 | WordPress.org China 简体中文](https://cn.wordpress.org/themes/tags/full-site-editing/)
-- [HTML5 UP! Responsive HTML5 and CSS3 Site Templates](https://html5up.net/)
-- [1500+ Best Website Templates (HTML & CSS) 2026 - Colorlib](https://colorlib.com/wp/templates/)
-
-### 众筹
-
-- [發現 » 科技 — Kickstarter](https://www.kickstarter.com/discover/advanced?category_id=16&woe_id=0&sort=newest&seed=2950023&page=2)
-- [摩点 - 发现新奇好物](https://www.modian.com/)
-- [Indiegogo](https://www.indiegogo.com/en)
-- [造点新货](https://izhongchou.taobao.com/)
-- [爱发电 · 连接创作者与粉丝的会员制平台](https://afdian.com/)
-
-### 更多资源
-
-- [免费正版高清照片素材库 超过3.9百万张优质照片素材可供免费使用和下载 - Pixabay](https://pixabay.com/zh/photos/)
-- [Unsplash](https://mani-unsplash-clone.netlify.app/)
-- [4K Heaven Wallpapers](https://4kwallpapers.com/heaven)
-- [100font.com - 免费商用字体大全 - 免费字体下载网站](https://www.100font.com/)
-- [Free Fonts | 130,000+ Font Downloads | FontSpace](https://www.fontspace.com/)
-- [Browse Fonts - Google Fonts](https://fonts.google.com/?utm_source=chatgpt.com&query=sans-serif)
-- [svg](https://www.svgrepo.com/)
-- [pixabay](https://pixabay.com/zh/)
-- [MakerWorld：免费下载 3D 模型](https://makerworld.com.cn/zh)
-- [创想云-3D打印模型库-一体化3D打印平台](https://www.crealitycloud.cn/)
-- [电子书](http://ww1.epubw.com/)
-- [iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/collections/index?spm=a313x.home_2025.i3.4.58a33a81bglhlK&type=1)
-- [Google微设计图标](https://undraw.co/illustrations)
-
----
-
-## 工具
-
-- [免费代理IP-动态HTTP代理IP-国内免费IP代理-云代理](http://www.ip3366.net/?stype=1&page=1)
-- [Sample Views | Getting Started](https://app.nocodb.com/#/wjbezz3v/prjji83haieo8h9/mmpj8conp51tyxj)
-- [CircuitLab 限额编辑电路图](https://www.circuitlab.com/editor/#?id=7pq5wm&from=homepage)
-- [[C++] gcc 13.2.0 - Wandbox](https://wandbox.org/)
-- [draw.io-科研画图](https://app.diagrams.net/)
-- [Favicon Generator - Image to Favicon - favicon.io](https://favicon.io/favicon-converter/#google_vignette)
-- [天眼查-商业查询平台_企业信息查询_公司查询_工商查询_企业信用信息系统](https://www.tianyancha.com/)
-- [Jiumo Search 鸠摩搜索 - 文档搜索引擎](https://www.jiumodiary.com/)
-- [按语言浏览： 中文 |古腾堡计划](https://www.gutenberg.org/browse/languages/zh)
-- [在线动态电路图](https://www.falstad.com/circuit/)
-- [Online C++ Compiler - online editor](https://www.onlinegdb.com/online_c++_compiler)
-- [在线转换PDF文件](https://www.aconvert.com/cn/pdf/)
-- [Screenshot to Code](https://screenshottocode.com/)
-- [免费 AI 视频生成器 - Bing Video Creator](https://www.bing.com/images/create?ctype=video)
-- [在线md渲染](https://www.mermditor.dev/)
-
-### 命令行
-
-- [Online Linux Terminal](https://www.tutorialspoint.com/compilers/online-linux-terminal.htm)
-- [Webminal](https://www.webminal.org/terminal/)
-- [Command Challenge!](https://cmdchallenge.com/)
-
----
-
-## 学校
-
-- [首页](https://literacyai.innovationtree.cn/home)
-- [华东师范大学运动体育平台](https://peclub.ecnu.edu.cn/)
-- [2.3.2 ECNU-1X · GitBook](https://docs.ecnu.edu.cn/index/WLAN_USAGE/ECNU-1X.html)
-- [本书简介 · GitBook](https://docs.ecnu.edu.cn/vpn/)
-- [luminous-research-hub](https://vpx-ecnu.github.io/)
-- [华东师范大学开发者平台](https://developer.ecnu.edu.cn/)
-
----
-
-## 研究
-
-- [News from Science | AAAS](https://www.science.org/news)
-- [Open Research Collaboration and Publishing - Authorea](https://www.authorea.com/)
-- [Newest Questions - Stack Overflow](https://stackoverflow.com/questions)
-- [Google 学术搜索](https://scholar.google.com/schhp?hl=zh-CN&as_sdt=0)
-- [BibTeX Online Editor](https://truben.no/latex/bibtex/)
-- [Mathematics Stack Exchange](https://math.stackexchange.com/questions/1846749/compute-int-02-pi-frac12-cos-theta2-d-theta?rq=1&newreg=c31666547a4446dcb38c7ce8bcd4aaeb)
-- [超理论坛](https://chaoli.club/index.php/conversations/maths)
-- [arXiv.org e-Print archive](https://arxiv.org/)
-- [Semantic Scholar | AI-Powered Research Tool](https://www.semanticscholar.org/)
-- [Trending Papers - Hugging Face](https://huggingface.co/papers/trending)
-- [自动化学报](https://www.aas.net.cn/)
-- [EBSCOhost Research Databases](https://research.ebsco.com/c/ecno37/search/results?q=%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD&autocorrect=y&db=aph%2Cbuh%2Ceric%2C8gh%2Clxh%2Ccmedm%2Cnfh%2Cpdh%2Cpbh%2Cpsyh%2Cbwh%2Ctrh%2Cs3h%2Cnlebk%2Cufh%2Chev%2Cddu%2Ce63sww%2Ch7i&expanders=concept&limiters=None&searchMode=boolean&searchSegment=all-results&sqId=sq%3A05d46561-8316-40a6-8a6b-c0a9186b2adc)
-- [paper](https://feedly.com/i/collection/content/user/7315e4da-65a5-4b4f-8a9f-104f31471ca2/category/4b68f2c1-79ea-4afa-b741-feff9f649e84)
-
-### 工具（常用）
-
-- [ResearchRabbit](https://app.researchrabbit.ai/)
-- [Connected Papers | Find and explore academic papers](https://www.connectedpapers.com/)
-- [幻觉翻译 - arXiv 及文档翻译](https://hjfy.top/)
-- [设置 - 文献鸟](https://www.storkapp.cn/accountCenter/update_setting.php)
-- [CAJToPDF](https://caj.gentleltd.cn/)
-
----
-
-## 打字
-
-- [爱德乐俱乐部](https://www.edclub.com/sportal/program-3.game)
-- [dazidazi-在线打字练习-提高打字速度-打字测试-标准指法](https://dazidazi.com/#:~:text=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A8%E8%8D%90)
-
----
-
-## 编程
-
-- [Codeforces](https://codeforces.com/)
-- [Online Judge - Home](https://onlinejudge.org/)
-- [Virtual Judge](https://vjudge.net/)
-- [牛客竞赛OJ_ACM/NOI/CSP/CCPC/ICPC_信息学编程算法训练平台](https://ac.nowcoder.com/)
-
----
-
-## 网络
-
-- [门户首页 - LIBER+](https://liber.plus/)
-- [仪表盘 - CyberGuard](https://www.cyberguard.best/#/dashboard)
-- [Zoog VPN - Free & Premium VPN Service](https://app.zoogvpn.com/checkout)
-- [用户中心 - LIBER+](https://liber.plus/clientarea.php)
-
----
-
-## 云服务
-
-- [阿里巴巴开源镜像站-OPSX镜像站-阿里云开发者社区](https://developer.aliyun.com/mirror/)
-- [Ollama Search](https://ollama.com/search)
-- [DMXAPI 大模型API聚合中转平台](https://dmxapi.com/)
-- [Sealos Cloud](https://usw.sealos.io/signin)
-- [阿里开源 - Alibaba Open Source](https://opensource.alibaba.com/)
-- [Validate your email address](https://login.ubuntu.com/+new-email)
-
----
-
-## 文档
-
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [Full featured documentation deployment platform - Read the Docs](https://about.readthedocs.com/?ref=app.readthedocs.org)
-- [Sphinx — Sphinx documentation](https://www.sphinx-doc.org/en/master/)
-
----
-
-## 其他
-
-- [Lab3: Pgtbl · 6.S081 All-In-One](https://xv6.dgs.zone/labs/answers/lab3.html)
-- [ECNUMC Wiki | ECNUMC Wiki](https://wiki.ecnumc.cn/)
-- [红警2重聚未来](https://www.yra2.com/)
-- [Ian's Shoelace Site – Shoe Lacing Methods](https://www.fieggen.com/shoelace/lacingmethods.htm)
-- [Antibot](https://bot.sannysoft.com/)
-- [QEMU for Windows – Installers (64 bit)](https://qemu.weilnetz.de/w64/)
-- [SMS-Act 接码平台 | 全球领先验证码接收服务](https://sms-act.net/activate/)
-
----
-
-## 脚本
-
-- [用户脚本](https://greasyfork.org/zh-CN/scripts)
-- [Userscript.Zone](https://www.userscript.zone/)
-- [OpenUserJS](https://openuserjs.org/)
-
----
-
-*此文件由 Microsoft Edge 浏览器收藏夹导出生成*
+* **bookmark_bar**
+    * **收藏夹栏**
+        * **常用**
+            * [Machine Learning  |  Google for Developers](https://developers.google.cn/machine-learning/foundational-courses?hl=zh-cn)
+            * [博客园 - 开发者的网上家](https://www.cnblogs.com/)
+            * [KKTQ (Images, Posts, & Favorites) - Imgur](https://imgur.com/user/kktq)
+            * [QShh - 首页 - 衍智云](https://hsamooc.com/git/)
+            * [关于举办2025第三届全国人工智能应用场景创新挑战赛的通知](https://www.cicas.cn/News/Detail/199)
+            * [IP-API.com - Geolocation API - Documentation - JSON](https://ip-api.com/docs/api:json)
+            * [高级IP定位-高级 API 文档-开发指南-Web服务 API|高德地图API](https://lbs.amap.com/api/webservice/guide/api-advanced/ip)
+            * [课程交流 - ECNU Forum](https://ecnu.im/t/courses)
+            * [领先的程序员自由远程工作平台-程序员客栈](https://www.proginn.com/)
+            * [服务器 - 轻量云 - 控制台](https://console.cloud.tencent.com/lighthouse/instance/index?rid=4)
+            * [1 冲刺嵌入式设计与开发科目专栏概述](https://www.4t.wiki/column/article/c4da5242d6bae32752a94605e04fcbf3/8ce64bf1302e0f71a7a0cfb7127e34f9)
+            * [What Can I Do? - Lovable](https://lovable.dev/projects/5eb1649a-d5e6-42c5-b847-a418c9e4f611)
+            * [Image and Video Upload, Storage, Optimization and CDN](https://cloudinary.com/)
+            * [B12 Editor](https://b12.io/client/RyeGU8tZ/site_builder/#/website)
+            * [ClawHub](https://clawhub.ai/skills?sort=downloads&nonSuspicious=true)
+            * [Chenhui Li](http://chenhui.li/)
+            * [服务总览-个推开发者中心](https://dev.getui.com/?userInfo=eventType:page;page:notification-push;uuid:06e2557ca5918f4dfc9e0d5397c727ff#/overviewIndex)
+            * [鱼皮编程导航](https://www.codefather.cn/)
+            * [KKTQawa's Project | KKTQawa's Org | Supabase](https://supabase.com/dashboard/project/moegjbdwjuwmlawztdpf)
+            * [51CTO博客 - 代码撬动世界](https://blog.51cto.com/)
+            * [有趣的开源社区 - HelloGitHub](https://hellogithub.com/)
+            * [访问字段 - Java教程 - 廖雪峰的官方网站](https://liaoxuefeng.com/books/java/reflection/field/index.html)
+            * [软件对话示例](https://gemini.google.com/share/cbc2af3e7fc3)
+            * [Spring Introduction](https://smartprogramming.in/tutorials/spring-framework/spring-introduction)
+        * **大模型**
+            * [🌌 mastra](https://www.yuque.com/denghanjie/public/cpquecx9ryadarr5)
+            * [Cerehub - 一站式AI集合工具](https://www.cerehub.com/)
+            * [AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全](https://ai-bot.cn/#term-61)
+            * [菜鸟工具 - 不止于工具](https://www.jyshare.com/)
+            * [Unsloth Docs | Unsloth Documentation](https://docs.unsloth.ai/)
+            * [google colab](https://colab.research.google.com/)
+            * [kaggle](https://www.kaggle.com/datasets)
+            * [硅基流动 SiliconFlow - 致力于成为全球领先的 AI 能力提供商](https://siliconflow.cn/)
+            * [closeai](https://platform.closeai-asia.com/dashboard)
+            * [RAGFlow](https://demo.ragflow.io/user-setting/model)
+            * [MCP – Model Context Protocol Servers, Clients, and Tools](https://glama.ai/mcp)
+            * [Awesome MCP Servers](https://mcpservers.org/)
+            * [Official MCP Registry](https://registry.modelcontextprotocol.io/)
+            * [Claude MCP Servers Directory - Model Context Protocol](https://www.claudemcp.org/)
+        * **硬件**
+            * [立创开源硬件平台](https://oshwhub.com/)
+            * [嘉立创EDA(标准版) - 免费、易用、强大的在线电路设计软件](https://lceda.cn/editor)
+            * [从零开始学习机器人技术 | 机器人与 ROS 在线课程 | The Construct](https://app.theconstruct.ai/)
+            * [Hackster.io - The community dedicated to learning hardware.](https://www.hackster.io/)
+            * [嵌入式单片机一套通关](https://www.yuque.com/embheima/mcu)
+            * [RT-Thread-首页-RT-Thread问答社区 - RT-Thread](https://club.rt-thread.org/)
+            * [全国大学生电子设计竞赛培训网](https://www.nuedc-training.com.cn/)
+        * **资源**
+            * [免费正版高清照片素材库 超过3.9百万张优质照片素材可供免费使用和下载 - Pixabay](https://pixabay.com/zh/photos/)
+            * [Unsplash](https://mani-unsplash-clone.netlify.app/)
+            * [4K Heaven Wallpapers](https://4kwallpapers.com/heaven)
+            * [100font.com - 免费商用字体大全 - 免费字体下载网站](https://www.100font.com/)
+            * [Free Fonts | 130,000+ Font Downloads | FontSpace](https://www.fontspace.com/)
+            * [Browse Fonts - Google Fonts](https://fonts.google.com/?utm_source=chatgpt.com&query=sans-serif)
+            * [svg](https://www.svgrepo.com/)
+            * [pixabay](https://pixabay.com/zh/)
+            * [MakerWorld：免费下载 3D 模型](https://makerworld.com.cn/zh)
+            * [创想云-3D打印模型库-一体化3D打印平台](https://www.crealitycloud.cn/)
+            * [电子书](http://ww1.epubw.com/)
+            * [iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/collections/index?spm=a313x.home_2025.i3.4.58a33a81bglhlK&type=1)
+            * [Google微设计图标](https://undraw.co/illustrations)
+            * **游戏资源**
+                * [Art Collections | OpenGameArt.org](https://opengameart.org/collections)
+                * [Assets · Kenney](https://kenney.nl/assets/category:2D/page:4?sort=update)
+                * [ドット絵ダウンロードサイト DOTOWN|無料の素材サイト](https://dotown.maeda-design-room.net/)
+                * [2D Game Assets Store & Free - CraftPix.net](https://craftpix.net/)
+                * [Download the latest indie games - itch.io](https://itch.io/)
+                * [网页红井-联机对战平台](https://www.ra2web.com/)
+            * **前端ui资源**
+                * **vue**
+                    * [组件总览 - Ant Design](https://ant.design/components/overview-cn/?locale=zh-CN)
+                    * [按钮 Button - Naive UI](https://www.naiveui.com/zh-CN/os-theme/components/button)
+                    * [Overview 组件总览 | Element Plus](https://element-plus.org/zh-CN/component/overview.html)
+                    * [Quasar Components | Quasar Framework](https://quasar.dev/components/)
+                    * [API 速查 — Vuetify](https://vuetifyjs.com/zh-Hans/components/explorer/)
+                * **react**
+                    * [Material Design 3 - Google's latest open source design system](https://m3.material.io/)
+                    * [Mantine UI](https://ui.mantine.dev/)
+                    * [Accordion | React Bootstrap](https://react-bootstrap.github.io/docs/components/accordion/)
+                    * [Components | Chakra UI](https://www.chakra-ui.com/docs/components/concepts/overview)
+                * [Headless UI - Unstyled, fully accessible UI components](https://headlessui.com/v1/vue)
+                * [区块主题 | WordPress.org China 简体中文](https://cn.wordpress.org/themes/tags/full-site-editing/)
+                * [HTML5 UP! Responsive HTML5 and CSS3 Site Templates](https://html5up.net/)
+                * [1500+ Best Website Templates (HTML & CSS) 2026 - Colorlib](https://colorlib.com/wp/templates/)
+            * **众筹**
+                * [發現 » 科技 — Kickstarter](https://www.kickstarter.com/discover/advanced?category_id=16&woe_id=0&sort=newest&seed=2950023&page=2)
+                * [摩点 - 发现新奇好物](https://www.modian.com/)
+                * [Indiegogo](https://www.indiegogo.com/en)
+                * [造点新货](https://izhongchou.taobao.com/)
+                * [爱发电 · 连接创作者与粉丝的会员制平台](https://afdian.com/)
+            * [JeecgBoot 企业级低代码平台 | JEECG 文档中心](https://help.jeecg.com/)
+        * **工具**
+            * [免费代理IP-动态HTTP代理IP-国内免费IP代理-云代理](http://www.ip3366.net/?stype=1&page=1)
+            * [Sample Views | Getting Started](https://app.nocodb.com/#/wjbezz3v/prjji83haieo8h9/mmpj8conp51tyxj)
+            * [CircuitLab 限额编辑电路图](https://www.circuitlab.com/editor/#?id=7pq5wm&from=homepage)
+            * [[C++] gcc 13.2.0 - Wandbox](https://wandbox.org/)
+            * [draw.io-科研画图](https://app.diagrams.net/)
+            * [Favicon Generator - Image to Favicon - favicon.io](https://favicon.io/favicon-converter/#google_vignette)
+            * [天眼查-商业查询平台_企业信息查询_公司查询_工商查询_企业信用信息系统](https://www.tianyancha.com/)
+            * [Jiumo Search 鸠摩搜索 - 文档搜索引擎](https://www.jiumodiary.com/)
+            * [按语言浏览： 中文 |古腾堡计划](https://www.gutenberg.org/browse/languages/zh)
+            * [在线动态电路图](https://www.falstad.com/circuit/)
+            * [Online C++ Compiler - online editor](https://www.onlinegdb.com/online_c++_compiler)
+            * [在线转换PDF文件](https://www.aconvert.com/cn/pdf/)
+            * [Screenshot to Code](https://screenshottocode.com/)
+            * [免费 AI 视频生成器 - Bing Video Creator](https://www.bing.com/images/create?ctype=video)
+            * [在线md渲染](https://www.mermditor.dev/)
+            * **命令**
+                * [Online Linux Terminal](https://www.tutorialspoint.com/compilers/online-linux-terminal.htm)
+                * [Webminal](https://www.webminal.org/terminal/)
+                * [Command Challenge!](https://cmdchallenge.com/)
+            * [HTML to Markdown Converter](https://codebeautify.org/html-to-markdown)
+        * **学校**
+            * [AI素养评测网](https://literacyai.innovationtree.cn/home)
+            * [华东师范大学运动体育平台](https://peclub.ecnu.edu.cn/)
+            * [ECNU-1X-2.4G](https://docs.ecnu.edu.cn/index/WLAN_USAGE/ECNU-1X.html)
+            * [本书简介 · GitBook](https://docs.ecnu.edu.cn/vpn/)
+            * [ECNU-vpx group](https://vpx-ecnu.github.io/)
+            * [华东师范大学开发者平台](https://developer.ecnu.edu.cn/)
+        * **研究**
+            * [News from Science | AAAS](https://www.science.org/news)
+            * [Open Research Collaboration and Publishing - Authorea](https://www.authorea.com/)
+            * [Newest Questions - Stack Overflow](https://stackoverflow.com/questions)
+            * [Google 学术搜索](https://scholar.google.com/schhp?hl=zh-CN&as_sdt=0)
+            * [BibTeX Online Editor](https://truben.no/latex/bibtex/)
+            * [complex analysis - Compute $\int_{0}^{2\pi}\frac{1}{(2+\cos\theta)^2}\,d\theta$ - Mathematics Stack Exchange](https://math.stackexchange.com/questions/1846749/compute-int-02-pi-frac12-cos-theta2-d-theta?rq=1&newreg=c31666547a4446dcb38c7ce8bcd4aaeb)
+            * [超理论坛](https://chaoli.club/index.php/conversations/maths)
+            * [arXiv.org e-Print archive](https://arxiv.org/)
+            * [Semantic Scholar | AI-Powered Research Tool](https://www.semanticscholar.org/)
+            * [Trending Papers - Hugging Face](https://huggingface.co/papers/trending)
+            * [自动化学报](https://www.aas.net.cn/)
+            * [‪具身智能‬‎ - ‪Search results‬‎ - ‪EBSCOhost Research Databases‬‎](https://research.ebsco.com/c/ecno37/search/results?q=%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD&autocorrect=y&db=aph%2Cbuh%2Ceric%2C8gh%2Clxh%2Ccmedm%2Cnfh%2Cpdh%2Cpbh%2Cpsyh%2Cbwh%2Ctrh%2Cs3h%2Cnlebk%2Cufh%2Chev%2Cddu%2Ce63sww%2Ch7i&expanders=concept&limiters=None&searchMode=boolean&searchSegment=all-results&sqId=sq%3A05d46561-8316-40a6-8a6b-c0a9186b2cdc)
+            * [paper](https://feedly.com/i/collection/content/user/7315e4da-65a5-4b4f-8a9f-104f31471ca2/category/4b68f2c1-79ea-4afa-b741-feff9f649e84)
+            * **工具（常用）**
+                * [ResearchRabbit](https://app.researchrabbit.ai/)
+                * [Connected Papers | Find and explore academic papers](https://www.connectedpapers.com/)
+                * [幻觉翻译 - arXiv 及文档翻译](https://hjfy.top/)
+                * [设置 - 文献鸟](https://www.storkapp.cn/accountCenter/update_setting.php)
+                * [CAJToPDF](https://caj.gentleltd.cn/)
+        * **打字**
+            * [爱德乐俱乐部](https://www.edclub.com/sportal/program-3.game)
+            * [dazidazi-在线打字练习-提高打字速度-打字测试-标准指法](https://dazidazi.com/#:~:text=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A8%E8%8D%90)
+        * ** 编程**
+            * [Codeforces](https://codeforces.com/)
+            * [Online Judge - Home](https://onlinejudge.org/)
+            * [Virtual Judge](https://vjudge.net/)
+            * [牛客竞赛OJ_ACM/NOI/CSP/CCPC/ICPC_信息学编程算法训练平台](https://ac.nowcoder.com/)
+        * **网络**
+            * [clash](https://liber.plus/)
+            * [仪表盘 - CyberGuard](https://www.cyberguard.best/#/dashboard)
+            * [‎红岸云](https://xn--yfrt8ufq2azvo.com/)
+            * [ZoogVPN - Free & Premium VPN Service](https://app.zoogvpn.com/checkout)
+            * [用户中心 - LIBER+](https://liber.plus/clientarea.php)
+        * **云服务**
+            * [阿里巴巴开源镜像站-OPSX镜像站-阿里云开发者社区](https://developer.aliyun.com/mirror/)
+            * [Ollama Search](https://ollama.com/search)
+            * [DMXAPI 大模型API聚合中转平台 | 一个Key用全球大模型,Openai Claude 代理打折可开发票](https://dmxapi.com/)
+            * [Sealos Cloud](https://usw.sealos.io/signin)
+            * [阿里开源 - Alibaba Open Source - 我们开放源码，更相信社区的力量](https://opensource.alibaba.com/)
+            * [ubuntu one](https://login.ubuntu.com/+new-email)
+        * **文档**
+            * [MDN Web Docs](https://developer.mozilla.org/en-US/)
+            * [Full featured documentation deployment platform - Read the Docs](https://about.readthedocs.com/?ref=app.readthedocs.org)
+            * [Sphinx — Sphinx documentation](https://www.sphinx-doc.org/en/master/)
+        * **其他**
+            * [Lab3: Pgtbl · 6.S081 All-In-One](https://xv6.dgs.zone/labs/answers/lab3.html)
+            * [ECNUMC Wiki | ECNUMC Wiki](https://wiki.ecnumc.cn/)
+            * [红警2重聚未来](https://www.yra2.com/)
+            * [Ian's Shoelace Site – Shoe Lacing Methods](https://www.fieggen.com/shoelace/lacingmethods.htm)
+            * [Antibot](https://bot.sannysoft.com/)
+            * [QEMU for Windows – Installers (64 bit)](https://qemu.weilnetz.de/w64/)
+            * [SMS-Act 接码平台 | 全球领先验证码接收服务](https://sms-act.net/activate/)
+        * **脚本**
+            * [用户脚本](https://greasyfork.org/zh-CN/scripts)
+            * [首页 | Userscript.Zone](https://www.userscript.zone/)
+            * [OpenUserJS](https://openuserjs.org/)
+        * **临时**
+* **other**
+    * **其他收藏夹**
