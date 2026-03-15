@@ -1,6 +1,6 @@
 # Edge Bookmarks
 
-> 常用的 Edge 浏览器收藏夹 | 更新时间: 2026_3_14
+> 常用的 Edge 浏览器收藏夹 | 更新时间: 2026_3_15
 
 ---
 * **bookmark_bar**
@@ -8,23 +8,23 @@
         * **常用**
             * [Machine Learning  |  Google for Developers](https://developers.google.cn/machine-learning/foundational-courses?hl=zh-cn)
             * [博客园 - 开发者的网上家](https://www.cnblogs.com/)
-            * [KKTQ (Images, Posts, & Favorites) - Imgur](https://imgur.com/user/kktq)
-            * [QShh - 首页 - 衍智云](https://hsamooc.com/git/)
+            * [ Imgur](https://imgur.com/user/kktq)
+            * [衍智云](https://hsamooc.com/git/)
             * [关于举办2025第三届全国人工智能应用场景创新挑战赛的通知](https://www.cicas.cn/News/Detail/199)
             * [IP-API.com - Geolocation API - Documentation - JSON](https://ip-api.com/docs/api:json)
             * [高级IP定位-高级 API 文档-开发指南-Web服务 API|高德地图API](https://lbs.amap.com/api/webservice/guide/api-advanced/ip)
             * [课程交流 - ECNU Forum](https://ecnu.im/t/courses)
             * [领先的程序员自由远程工作平台-程序员客栈](https://www.proginn.com/)
-            * [服务器 - 轻量云 - 控制台](https://console.cloud.tencent.com/lighthouse/instance/index?rid=4)
-            * [1 冲刺嵌入式设计与开发科目专栏概述](https://www.4t.wiki/column/article/c4da5242d6bae32752a94605e04fcbf3/8ce64bf1302e0f71a7a0cfb7127e34f9)
-            * [What Can I Do? - Lovable](https://lovable.dev/projects/5eb1649a-d5e6-42c5-b847-a418c9e4f611)
+            * [腾讯云服务器  - 控制台](https://console.cloud.tencent.com/lighthouse/instance/index?rid=4)
+            * [ 冲刺嵌入式设计与开发科目专栏概述](https://www.4t.wiki/column/article/c4da5242d6bae32752a94605e04fcbf3/8ce64bf1302e0f71a7a0cfb7127e34f9)
+            * [Lovable](https://lovable.dev/projects/5eb1649a-d5e6-42c5-b847-a418c9e4f611)
             * [Image and Video Upload, Storage, Optimization and CDN](https://cloudinary.com/)
             * [B12 Editor](https://b12.io/client/RyeGU8tZ/site_builder/#/website)
             * [ClawHub](https://clawhub.ai/skills?sort=downloads&nonSuspicious=true)
             * [Chenhui Li](http://chenhui.li/)
             * [服务总览-个推开发者中心](https://dev.getui.com/?userInfo=eventType:page;page:notification-push;uuid:06e2557ca5918f4dfc9e0d5397c727ff#/overviewIndex)
             * [鱼皮编程导航](https://www.codefather.cn/)
-            * [KKTQawa's Project | KKTQawa's Org | Supabase](https://supabase.com/dashboard/project/moegjbdwjuwmlawztdpf)
+            * [supabase](https://supabase.com/dashboard/project/moegjbdwjuwmlawztdpf)
             * [51CTO博客 - 代码撬动世界](https://blog.51cto.com/)
             * [有趣的开源社区 - HelloGitHub](https://hellogithub.com/)
             * [访问字段 - Java教程 - 廖雪峰的官方网站](https://liaoxuefeng.com/books/java/reflection/field/index.html)
@@ -67,6 +67,7 @@
             * [电子书](http://ww1.epubw.com/)
             * [iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/collections/index?spm=a313x.home_2025.i3.4.58a33a81bglhlK&type=1)
             * [Google微设计图标](https://undraw.co/illustrations)
+            * [JeecgBoot 企业级低代码平台 | JEECG 文档中心](https://help.jeecg.com/)
             * **游戏资源**
                 * [Art Collections | OpenGameArt.org](https://opengameart.org/collections)
                 * [Assets · Kenney](https://kenney.nl/assets/category:2D/page:4?sort=update)
@@ -96,7 +97,6 @@
                 * [Indiegogo](https://www.indiegogo.com/en)
                 * [造点新货](https://izhongchou.taobao.com/)
                 * [爱发电 · 连接创作者与粉丝的会员制平台](https://afdian.com/)
-            * [JeecgBoot 企业级低代码平台 | JEECG 文档中心](https://help.jeecg.com/)
         * **工具**
             * [免费代理IP-动态HTTP代理IP-国内免费IP代理-云代理](http://www.ip3366.net/?stype=1&page=1)
             * [Sample Views | Getting Started](https://app.nocodb.com/#/wjbezz3v/prjji83haieo8h9/mmpj8conp51tyxj)
@@ -113,11 +113,11 @@
             * [Screenshot to Code](https://screenshottocode.com/)
             * [免费 AI 视频生成器 - Bing Video Creator](https://www.bing.com/images/create?ctype=video)
             * [在线md渲染](https://www.mermditor.dev/)
+            * [HTML to Markdown Converter](https://codebeautify.org/html-to-markdown)
             * **命令**
                 * [Online Linux Terminal](https://www.tutorialspoint.com/compilers/online-linux-terminal.htm)
                 * [Webminal](https://www.webminal.org/terminal/)
                 * [Command Challenge!](https://cmdchallenge.com/)
-            * [HTML to Markdown Converter](https://codebeautify.org/html-to-markdown)
         * **学校**
             * [AI素养评测网](https://literacyai.innovationtree.cn/home)
             * [华东师范大学运动体育平台](https://peclub.ecnu.edu.cn/)
