@@ -1,3 +1,4 @@
+@echo off
 
 for /f "tokens=2-4 delims=/.- " %%a in ("%date%") do (
     set year=%%a
@@ -21,6 +22,7 @@ if errorlevel 1 (
     echo git commit failed or nothing to commit
 )
 
+echo Running git pull
 git pull --rebase origin master
 
 echo Running git push
