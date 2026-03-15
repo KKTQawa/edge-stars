@@ -7,31 +7,31 @@ for /f "tokens=2-4 delims=/.- " %%a in ("%date%") do (
 )
 
 set msg=Update at %year%_%month%_%day%
-echo commit : %msg%
+echo [INFO] commit : %msg%
 
 git add .
 if errorlevel 1 (
-    echo git add failed
+    echo [ERROR] git add failed
     pause
     exit /b
 )
-
-echo Running git commit
+echo.
+echo [INFO] Running git commit
 git commit -m "%msg%"
 if errorlevel 1 (
-    echo git commit failed or nothing to commit
+    echo [ERROR] git commit failed or nothing to commit
 )
-
-echo Running git pull
+echo.
+echo [INFO] Running git pull
 git pull --rebase origin master
-
-echo Running git push
+echo.
+echo [INFO] Running git push
 git push -u origin master:master
 if errorlevel 1 (
-    echo git push failed
+    echo [ERROR] git push failed
     pause
     exit /b
 )
-
+echo.
 echo ===== Script Finished =====
 pause
