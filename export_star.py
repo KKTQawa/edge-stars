@@ -3,6 +3,7 @@
 
 import os
 import json
+import glob
 from datetime import datetime
 
 now = datetime.now()
@@ -137,6 +138,16 @@ def export_md(bookmarks, filename):
 def main():
     print("[INFO] Edge Bookmark Export Tool")
     print("--------------------------------")
+
+    # 删除原来的.html和.json文件
+    print("Cleaning old export files...")
+    for pattern in ("*.html", "*.json"):
+        for file in glob.glob(pattern):
+            try:
+                os.remove(file)
+                print(f"Deleted: {file}")
+            except Exception as e:
+                print(f"Failed to delete {file}: {e}")
 
     data = load_bookmarks(BOOKMARKS_PATH)
     if not data:
