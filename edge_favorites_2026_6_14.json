@@ -1,5 +1,5 @@
 {
-    "checksum": "bbcb732ff94ae0c767936edc3222d06b",
+    "checksum": "ca7cc4694ccf35a8af7c62d6a6f17396",
     "roots": {
         "bookmark_bar": {
             "type": "folder",
@@ -13,7 +13,7 @@
                     "children": [
                         {
                             "type": "url",
-                            "name": "博客园 - 开发者的网上家",
+                            "name": "博客园 - 开发者的网上家园",
                             "id": "3",
                             "url": "https://www.cnblogs.com/"
                         },
@@ -85,9 +85,51 @@
                         },
                         {
                             "type": "url",
-                            "name": "软件对话示例",
-                            "id": "251",
-                            "url": "https://gemini.google.com/share/cbc2af3e7fc3"
+                            "name": "Partner Center",
+                            "id": "293",
+                            "url": "https://partner.microsoft.com/en-us/dashboard/microsoftedge/e38536f0-69e8-46ae-90fc-43c326b2a790/availability"
+                        },
+                        {
+                            "type": "url",
+                            "name": "vpx",
+                            "id": "299",
+                            "url": "https://vpx-ecnu.zulipchat.com/#narrow/is/starred"
+                        },
+                        {
+                            "type": "url",
+                            "name": "Embodied AI Guide ",
+                            "id": "319",
+                            "url": "https://lumina-embodied.ai/blog/eai-guide#rl"
+                        },
+                        {
+                            "type": "url",
+                            "name": "every embody",
+                            "id": "307",
+                            "url": "https://datawhalechina.github.io/every-embodied/zh-cn/#/doc/MDIt5py65Zmo5Lq65Z-656GA5ZKM5o6n5Yi244CB5omL55y85Y2P6LCDLzAx5py65Zmo5Lq656m66Ze05o-P6L-w5LiO5Z2Q5qCH5Y-Y5o2iLm1k"
+                        },
+                        {
+                            "type": "url",
+                            "name": "Datawhale-用户中心",
+                            "id": "341",
+                            "url": "https://www.datawhale.cn/personal-center/myStudy?from=homepage"
+                        },
+                        {
+                            "type": "url",
+                            "name": "上海人工智能实验室联培博士生申请系统-门户首页",
+                            "id": "354",
+                            "url": "https://admissions.pjlab.org.cn/portal/home"
+                        },
+                        {
+                            "type": "url",
+                            "name": "AWS DeepRacer 入门 – Amazon Web Services",
+                            "id": "355",
+                            "url": "https://aws.amazon.com/cn/deepracer/getting-started/?nc=sn&loc=6"
+                        },
+                        {
+                            "type": "url",
+                            "name": "HappyTorch",
+                            "id": "360",
+                            "url": "https://happytorch.wavetao.top/problems"
                         }
                     ]
                 },
@@ -173,15 +215,15 @@
                         },
                         {
                             "type": "url",
-                            "name": "n1n",
-                            "id": "281",
-                            "url": "https://api.n1n.ai/console"
-                        },
-                        {
-                            "type": "url",
                             "name": "Openroute",
                             "id": "282",
                             "url": "https://openrouter.ai/workspaces/default/keys?utm_source=signup-success"
+                        },
+                        {
+                            "type": "url",
+                            "name": "Runpod GPU Cloud",
+                            "id": "347",
+                            "url": "https://console.runpod.io/deploy"
                         }
                     ]
                 },
@@ -237,6 +279,36 @@
                             "name": "全国大学生电子设计竞赛培训网",
                             "id": "187",
                             "url": "https://www.nuedc-training.com.cn/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "地瓜机器人开发者社区 - 开源具身智能平台",
+                            "id": "308",
+                            "url": "https://developer.d-robotics.cc/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "达摩硬件学习",
+                            "id": "309",
+                            "url": "https://developer.damo-academy.com/blogs/list"
+                        },
+                        {
+                            "type": "url",
+                            "name": "AI和编程基础入门指南",
+                            "id": "310",
+                            "url": "https://scalelab-sjtu.github.io/start.html"
+                        },
+                        {
+                            "type": "url",
+                            "name": "Lumina: Embodied AI Community",
+                            "id": "311",
+                            "url": "https://lumina-embodied.ai/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "算力自由",
+                            "id": "362",
+                            "url": "https://www.gpufree.cn/home"
                         }
                     ]
                 },
@@ -407,6 +479,42 @@
                             "name": "Python Online Compiler & Interpreter - Replit",
                             "id": "271",
                             "url": "https://replit.com/languages/python3"
+                        },
+                        {
+                            "type": "url",
+                            "name": "Excalidraw-手绘草图",
+                            "id": "295",
+                            "url": "https://excalidraw.com/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "Ghostarchive, a website archive",
+                            "id": "301",
+                            "url": "https://ghostarchive.org/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "Github Star trending",
+                            "id": "303",
+                            "url": "https://www.littlestarcloud.com/trending?language=All&duration=daily"
+                        },
+                        {
+                            "type": "url",
+                            "name": "ASCII Draw",
+                            "id": "305",
+                            "url": "https://asciidraw.puppylab.org/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "云表-画表格",
+                            "id": "317",
+                            "url": "https://app.iyunbiao.com/home#"
+                        },
+                        {
+                            "type": "url",
+                            "name": "美国地址生成器 - 随机生成美国地址和个人身份信息",
+                            "id": "346",
+                            "url": "https://usaddrgen.com/"
                         }
                     ]
                 },
@@ -483,6 +591,24 @@
                             "name": "ECNU Minus",
                             "id": "291",
                             "url": "https://times.myecnu.org/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "校内资源",
+                            "id": "333",
+                            "url": "https://wzq.ecnu.edu.cn/_s808/49774/list.psp"
+                        },
+                        {
+                            "type": "url",
+                            "name": "窄门 | ECNU",
+                            "id": "350",
+                            "url": "https://lovecnu.com/dashboard"
+                        },
+                        {
+                            "type": "url",
+                            "name": "OnlyStars 新月集",
+                            "id": "352",
+                            "url": "https://onlystars.tech/"
                         }
                     ]
                 },
@@ -618,6 +744,12 @@
                                     "name": "CAJToPDF",
                                     "id": "141",
                                     "url": "https://caj.gentleltd.cn/"
+                                },
+                                {
+                                    "type": "url",
+                                    "name": "CatalyzeX: open-source AI code to catalyze your research",
+                                    "id": "335",
+                                    "url": "https://www.catalyzex.com/"
                                 }
                             ]
                         }
@@ -663,6 +795,48 @@
                             "name": "ECNUMC Wiki | ECNUMC Wiki",
                             "id": "123",
                             "url": "https://wiki.ecnumc.cn/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "多角色部件组装器",
+                            "id": "297",
+                            "url": "https://md.benxianhenl.org/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "DrawAFish.com",
+                            "id": "313",
+                            "url": "https://drawafish.com/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "ACGTI 二次元角色原型测试",
+                            "id": "315",
+                            "url": "https://acgti.tianxingleo.top/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "VRChat-VR社区世界",
+                            "id": "321",
+                            "url": "https://hello.vrchat.com/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "BOOTH-日本二次元社区",
+                            "id": "329",
+                            "url": "https://booth.pm/en"
+                        },
+                        {
+                            "type": "url",
+                            "name": "VGen",
+                            "id": "330",
+                            "url": "https://vgen.co/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "nizima by Live2D",
+                            "id": "331",
+                            "url": "https://nizima.com/"
                         }
                     ]
                 },
@@ -1043,15 +1217,6 @@
                         },
                         {
                             "type": "url",
-                            "name": "clash",
-                            "id": "90",
-                            "meta_info": {
-                                "power_bookmark_meta": ""
-                            },
-                            "url": "https://liber.plus/"
-                        },
-                        {
-                            "type": "url",
                             "name": "仪表盘 - CyberGuard",
                             "id": "91",
                             "url": "https://www.cyberguard.best/#/dashboard"
@@ -1070,9 +1235,27 @@
                         },
                         {
                             "type": "url",
-                            "name": "用户中心 - LIBER+",
+                            "name": "liber_plus_clash",
                             "id": "209",
                             "url": "https://liber.plus/clientarea.php"
+                        },
+                        {
+                            "type": "url",
+                            "name": "FatbeansCreater 肥豆创客 - 驱动级网络封包抓包调试与零代码应用发布平台",
+                            "id": "345",
+                            "url": "https://fatbeans.cn/#maker"
+                        },
+                        {
+                            "type": "url",
+                            "name": "Setup Proxy - Proxy-Cheap",
+                            "id": "364",
+                            "url": "https://app.proxy-cheap.com/order"
+                        },
+                        {
+                            "type": "url",
+                            "name": "工作台 - LLM API 大模型API接口聚合管理平台 | OpenAI/Claude/Gemini 国内直连 - n1n.ai -",
+                            "id": "371",
+                            "url": "https://api.n1n.ai/console"
                         }
                     ]
                 },
@@ -1130,12 +1313,6 @@
                     "name": "其他",
                     "id": "102",
                     "children": [
-                        {
-                            "type": "url",
-                            "name": "Lab3: Pgtbl · 6.S081 All-In-One",
-                            "id": "111",
-                            "url": "https://xv6.dgs.zone/labs/answers/lab3.html"
-                        },
                         {
                             "type": "url",
                             "name": "Ian's Shoelace Site – Shoe Lacing Methods",
@@ -1233,6 +1410,110 @@
                     "name": "临时",
                     "id": "247",
                     "children": []
+                },
+                {
+                    "type": "folder",
+                    "name": "文章收录",
+                    "id": "324",
+                    "children": [
+                        {
+                            "type": "url",
+                            "name": "Lab3: Pgtbl · 6.S081 All-In-One",
+                            "id": "111",
+                            "url": "https://xv6.dgs.zone/labs/answers/lab3.html"
+                        },
+                        {
+                            "type": "url",
+                            "name": "软件对话示例",
+                            "id": "251",
+                            "url": "https://gemini.google.com/share/cbc2af3e7fc3"
+                        },
+                        {
+                            "type": "url",
+                            "name": "2026最新稳定高速VPN推荐：10款性价比翻墙梯子指南 - 巴巴豆",
+                            "id": "337",
+                            "url": "https://www.babeedu.net/2026-best-stable-vpn-recommendation/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "2026 翻墙VPN推荐（国内实测） - VPNBay",
+                            "id": "339",
+                            "url": "https://vpnbay.com/best-gfw-vpn-china.html"
+                        },
+                        {
+                            "type": "url",
+                            "name": "具身智能（Embodied AI）技术综述：从基础理论到工程实践",
+                            "id": "342",
+                            "url": "https://wangjunjian.com/posts/2026-04-13-embodied_ai_survey"
+                        },
+                        {
+                            "type": "url",
+                            "name": "2026 免费 GPU 平台推荐：Colab、Kaggle、NVIDIA Build 免费 API 与中国大陆算力对比 | yangmao.ai",
+                            "id": "344",
+                            "url": "https://yangmao.ai/zh/blog/free-gpu-platforms-2026/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "华为模拟器eNSP安装（最新）网络工程师必备！ - wuliMax - 博客园",
+                            "id": "348",
+                            "url": "https://www.cnblogs.com/wulimax/p/10780265.html"
+                        },
+                        {
+                            "type": "url",
+                            "name": "【AI】2026 年具身智能模型和世界模型总结 - 技术栈",
+                            "id": "323",
+                            "url": "https://jishuzhan.net/article/2048254266264059906"
+                        },
+                        {
+                            "type": "url",
+                            "name": "GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning",
+                            "id": "326",
+                            "url": "https://gsplayground.github.io/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "RealMirror - A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI",
+                            "id": "327",
+                            "url": "https://terminators2025.github.io/RealMirror.github.io/"
+                        },
+                        {
+                            "type": "url",
+                            "name": "快速解决OpenCode配置第三方API - 技术栈",
+                            "id": "366",
+                            "url": "https://jishuzhan.net/article/2040300246860304386"
+                        },
+                        {
+                            "type": "url",
+                            "name": "xbotices文档",
+                            "id": "368",
+                            "url": "https://github.com/Xbotics-Embodied-AI-club/Motphys-Xbotics-Robot-Rl-Sim-Training-Camp/tree/main/docs/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%B8%8EMotrixLab%E5%85%A5%E9%97%A8/%E7%BA%BF%E4%B8%8A%E8%A7%86%E9%A2%91%E6%95%99%E6%A1%88"
+                        },
+                        {
+                            "type": "url",
+                            "name": "用PPO打赢星际争霸【整合版】 - 技术栈",
+                            "id": "369",
+                            "url": "https://jishuzhan.net/article/2050418313545711618"
+                        }
+                    ]
+                },
+                {
+                    "type": "folder",
+                    "name": "阅读",
+                    "id": "356",
+                    "children": [
+                        {
+                            "type": "url",
+                            "name": "荒原狼 - 出版人前言 - [德]赫尔曼·黑塞 - 微信读书",
+                            "id": "357",
+                            "url": "https://weread.qq.com/web/reader/c79322d0813abaaa7g011479kecc32f3013eccbc87e4b62e"
+                        },
+                        {
+                            "type": "url",
+                            "name": "荒原狼 : 序 言_在线阅读_天涯书库",
+                            "id": "358",
+                            "url": "https://tianyashuku.net/world/2363/196121.html"
+                        }
+                    ]
                 }
             ]
         },

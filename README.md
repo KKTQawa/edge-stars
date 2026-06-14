@@ -1,12 +1,12 @@
 # Edge Bookmarks
 
-> 常用的 Edge 浏览器收藏夹 | 更新时间: 2026_4_16
+> 常用的 Edge 浏览器收藏夹 | 更新时间: 2026_6_14
 
 ---
 * **bookmark_bar**
     * **收藏夹栏**
         * **常用**
-            * [博客园 - 开发者的网上家](https://www.cnblogs.com/)
+            * [博客园 - 开发者的网上家园](https://www.cnblogs.com/)
             * [ Imgur](https://imgur.com/user/kktq)
             * [衍智云](https://hsamooc.com/git/)
             * [关于举办2025第三届全国人工智能应用场景创新挑战赛的通知](https://www.cicas.cn/News/Detail/199)
@@ -18,7 +18,14 @@
             * [supabase](https://supabase.com/dashboard/project/moegjbdwjuwmlawztdpf)
             * [51CTO博客 - 代码撬动世界](https://blog.51cto.com/)
             * [廖雪峰的官方网站](https://liaoxuefeng.com/books/java/reflection/field/index.html)
-            * [软件对话示例](https://gemini.google.com/share/cbc2af3e7fc3)
+            * [Partner Center](https://partner.microsoft.com/en-us/dashboard/microsoftedge/e38536f0-69e8-46ae-90fc-43c326b2a790/availability)
+            * [vpx](https://vpx-ecnu.zulipchat.com/#narrow/is/starred)
+            * [Embodied AI Guide ](https://lumina-embodied.ai/blog/eai-guide#rl)
+            * [every embody](https://datawhalechina.github.io/every-embodied/zh-cn/#/doc/MDIt5py65Zmo5Lq65Z-656GA5ZKM5o6n5Yi244CB5omL55y85Y2P6LCDLzAx5py65Zmo5Lq656m66Ze05o-P6L-w5LiO5Z2Q5qCH5Y-Y5o2iLm1k)
+            * [Datawhale-用户中心](https://www.datawhale.cn/personal-center/myStudy?from=homepage)
+            * [上海人工智能实验室联培博士生申请系统-门户首页](https://admissions.pjlab.org.cn/portal/home)
+            * [AWS DeepRacer 入门 – Amazon Web Services](https://aws.amazon.com/cn/deepracer/getting-started/?nc=sn&loc=6)
+            * [HappyTorch](https://happytorch.wavetao.top/problems)
         * **大模型**
             * [Machine Learning  |  Google for Developers](https://developers.google.cn/machine-learning/foundational-courses?hl=zh-cn)
             * [Cerehub - 一站式AI集合工具](https://www.cerehub.com/)
@@ -32,8 +39,8 @@
             * [Awesome MCP Servers](https://mcpservers.org/)
             * [Official MCP Registry](https://registry.modelcontextprotocol.io/)
             * [Claude MCP Servers Directory - Model Context Protocol](https://www.claudemcp.org/)
-            * [n1n](https://api.n1n.ai/console)
             * [Openroute](https://openrouter.ai/workspaces/default/keys?utm_source=signup-success)
+            * [Runpod GPU Cloud](https://console.runpod.io/deploy)
         * **硬件**
             * [ 冲刺嵌入式设计与开发科目专栏概述](https://www.4t.wiki/column/article/c4da5242d6bae32752a94605e04fcbf3/8ce64bf1302e0f71a7a0cfb7127e34f9)
             * [立创开源硬件平台](https://oshwhub.com/)
@@ -43,6 +50,11 @@
             * [嵌入式单片机一套通关](https://www.yuque.com/embheima/mcu)
             * [RT-Thread-首页-RT-Thread问答社区 - RT-Thread](https://club.rt-thread.org/)
             * [全国大学生电子设计竞赛培训网](https://www.nuedc-training.com.cn/)
+            * [地瓜机器人开发者社区 - 开源具身智能平台](https://developer.d-robotics.cc/)
+            * [达摩硬件学习](https://developer.damo-academy.com/blogs/list)
+            * [AI和编程基础入门指南](https://scalelab-sjtu.github.io/start.html)
+            * [Lumina: Embodied AI Community](https://lumina-embodied.ai/)
+            * [算力自由](https://www.gpufree.cn/home)
         * **命令**
             * [ Docker 实验场](https://labex.io/zh/labs/docker-your-first-docker-lab-92719?course=docker-for-beginners&hideheader=true&hidelabby=true)
             * [Online Linux Terminal](https://www.tutorialspoint.com/compilers/online-linux-terminal.htm)
@@ -69,6 +81,12 @@
             * [HTML to Markdown Converter](https://codebeautify.org/html-to-markdown)
             * [Graph Creator](http://chenhui.li/demo/smg/)
             * [Python Online Compiler & Interpreter - Replit](https://replit.com/languages/python3)
+            * [Excalidraw-手绘草图](https://excalidraw.com/)
+            * [Ghostarchive, a website archive](https://ghostarchive.org/)
+            * [Github Star trending](https://www.littlestarcloud.com/trending?language=All&duration=daily)
+            * [ASCII Draw](https://asciidraw.puppylab.org/)
+            * [云表-画表格](https://app.iyunbiao.com/home#)
+            * [美国地址生成器 - 随机生成美国地址和个人身份信息](https://usaddrgen.com/)
         * **学校**
             * [教育网联邦认证与资源共享基础设施CARSI](https://www.carsi.edu.cn/index.html)
             * [AI素养评测网](https://literacyai.innovationtree.cn/home)
@@ -81,6 +99,9 @@
             * [时间线 | 水杉空间（闭社华师站）](https://space.shuishan.uk/)
             * [ECNU Forum](https://ecnu.im/)
             * [ECNU Minus](https://times.myecnu.org/)
+            * [校内资源](https://wzq.ecnu.edu.cn/_s808/49774/list.psp)
+            * [窄门 | ECNU](https://lovecnu.com/dashboard)
+            * [OnlyStars 新月集](https://onlystars.tech/)
         * **研究**
             * [News from Science | AAAS](https://www.science.org/news)
             * [Open Research Collaboration and Publishing - Authorea](https://www.authorea.com/)
@@ -101,6 +122,7 @@
                 * [幻觉翻译 - arXiv 及文档翻译](https://hjfy.top/)
                 * [设置 - 文献鸟](https://www.storkapp.cn/accountCenter/update_setting.php)
                 * [CAJToPDF](https://caj.gentleltd.cn/)
+                * [CatalyzeX: open-source AI code to catalyze your research](https://www.catalyzex.com/)
         * **Happy**
             * [Minecraft我的世界方块与物品ID表 JE1.0至26.1 - 伶宁域](https://mcid.lingningyu.cn/)
             * [秽翼的尤斯蒂娅 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E7%A7%BD%E7%BF%BC%E7%9A%84%E5%B0%A4%E6%96%AF%E8%92%82%E5%A8%85)
@@ -108,6 +130,13 @@
             * [鲲鹏](https://www.kungal.com/activity)
             * [红警2重聚未来](https://www.yra2.com/)
             * [ECNUMC Wiki | ECNUMC Wiki](https://wiki.ecnumc.cn/)
+            * [多角色部件组装器](https://md.benxianhenl.org/)
+            * [DrawAFish.com](https://drawafish.com/)
+            * [ACGTI 二次元角色原型测试](https://acgti.tianxingleo.top/)
+            * [VRChat-VR社区世界](https://hello.vrchat.com/)
+            * [BOOTH-日本二次元社区](https://booth.pm/en)
+            * [VGen](https://vgen.co/)
+            * [nizima by Live2D](https://nizima.com/)
         * **资源**
             * [B12 Editor](https://b12.io/client/RyeGU8tZ/site_builder/#/website)
             * [Lovable](https://lovable.dev/projects/5eb1649a-d5e6-42c5-b847-a418c9e4f611)
@@ -163,11 +192,13 @@
         * **网络**
             * [Antibot-爬虫检测](https://bot.sannysoft.com/)
             * [SMS-Act 接码平台 | 全球领先验证码接收服务](https://sms-act.net/activate/)
-            * [clash](https://liber.plus/)
             * [仪表盘 - CyberGuard](https://www.cyberguard.best/#/dashboard)
             * [‎红岸云](https://xn--yfrt8ufq2azvo.com/)
             * [ZoogVPN - Free & Premium VPN Service](https://app.zoogvpn.com/checkout)
-            * [用户中心 - LIBER+](https://liber.plus/clientarea.php)
+            * [liber_plus_clash](https://liber.plus/clientarea.php)
+            * [FatbeansCreater 肥豆创客 - 驱动级网络封包抓包调试与零代码应用发布平台](https://fatbeans.cn/#maker)
+            * [Setup Proxy - Proxy-Cheap](https://app.proxy-cheap.com/order)
+            * [工作台 - LLM API 大模型API接口聚合管理平台 | OpenAI/Claude/Gemini 国内直连 - n1n.ai -](https://api.n1n.ai/console)
         * **云服务**
             * [阿里巴巴开源镜像站-OPSX镜像站-阿里云开发者社区](https://developer.aliyun.com/mirror/)
             * [Ollama Search](https://ollama.com/search)
@@ -176,7 +207,6 @@
             * [阿里开源 - Alibaba Open Source - 我们开放源码，更相信社区的力量](https://opensource.alibaba.com/)
             * [ubuntu one](https://login.ubuntu.com/+new-email)
         * **其他**
-            * [Lab3: Pgtbl · 6.S081 All-In-One](https://xv6.dgs.zone/labs/answers/lab3.html)
             * [Ian's Shoelace Site – Shoe Lacing Methods](https://www.fieggen.com/shoelace/lacingmethods.htm)
             * [QEMU for Windows – Installers (64 bit)](https://qemu.weilnetz.de/w64/)
         * **文档**
@@ -191,5 +221,22 @@
             * [爱德乐俱乐部](https://www.edclub.com/sportal/program-3.game)
             * [dazidazi-在线打字练习-提高打字速度-打字测试-标准指法](https://dazidazi.com/#:~:text=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A8%E8%8D%90)
         * **临时**
+        * **文章收录**
+            * [Lab3: Pgtbl · 6.S081 All-In-One](https://xv6.dgs.zone/labs/answers/lab3.html)
+            * [软件对话示例](https://gemini.google.com/share/cbc2af3e7fc3)
+            * [2026最新稳定高速VPN推荐：10款性价比翻墙梯子指南 - 巴巴豆](https://www.babeedu.net/2026-best-stable-vpn-recommendation/)
+            * [2026 翻墙VPN推荐（国内实测） - VPNBay](https://vpnbay.com/best-gfw-vpn-china.html)
+            * [具身智能（Embodied AI）技术综述：从基础理论到工程实践](https://wangjunjian.com/posts/2026-04-13-embodied_ai_survey)
+            * [2026 免费 GPU 平台推荐：Colab、Kaggle、NVIDIA Build 免费 API 与中国大陆算力对比 | yangmao.ai](https://yangmao.ai/zh/blog/free-gpu-platforms-2026/)
+            * [华为模拟器eNSP安装（最新）网络工程师必备！ - wuliMax - 博客园](https://www.cnblogs.com/wulimax/p/10780265.html)
+            * [【AI】2026 年具身智能模型和世界模型总结 - 技术栈](https://jishuzhan.net/article/2048254266264059906)
+            * [GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning](https://gsplayground.github.io/)
+            * [RealMirror - A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI](https://terminators2025.github.io/RealMirror.github.io/)
+            * [快速解决OpenCode配置第三方API - 技术栈](https://jishuzhan.net/article/2040300246860304386)
+            * [xbotices文档](https://github.com/Xbotics-Embodied-AI-club/Motphys-Xbotics-Robot-Rl-Sim-Training-Camp/tree/main/docs/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%B8%8EMotrixLab%E5%85%A5%E9%97%A8/%E7%BA%BF%E4%B8%8A%E8%A7%86%E9%A2%91%E6%95%99%E6%A1%88)
+            * [用PPO打赢星际争霸【整合版】 - 技术栈](https://jishuzhan.net/article/2050418313545711618)
+        * **阅读**
+            * [荒原狼 - 出版人前言 - [德]赫尔曼·黑塞 - 微信读书](https://weread.qq.com/web/reader/c79322d0813abaaa7g011479kecc32f3013eccbc87e4b62e)
+            * [荒原狼 : 序 言_在线阅读_天涯书库](https://tianyashuku.net/world/2363/196121.html)
 * **other**
     * **其他收藏夹**
